@@ -1,7 +1,7 @@
 ## IDA 
 IDA develops a comprehensive framework to monitor, detect, and mitigate information disorder online. The project focuses on disinformation, coordinated manipulation, and the cognitive vulnerabilities exploited in social platforms. It combines AI, data mining, OSINT, and explainable machine learning to assess source credibility, verify claims, and identify propaganda or synthetic media. IDA delivers operational tools such as a real-time monitoring platform, a cognitive risk indicator, and multimodal detection services, supporting analysts, public institutions, and media operators in building societal resilience against large-scale manipulation.
 
-[https://serics.eu/wp-content/uploads/2022/12/Logo_Serics-2048x661.png]
+![](https://serics.eu/wp-content/uploads/2022/12/Logo_Serics-2048x661.png)
 
 ## Publications
 
