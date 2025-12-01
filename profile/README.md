@@ -3,6 +3,10 @@ IDA develops a comprehensive framework to monitor, detect, and mitigate informat
 
 ![](https://serics.eu/wp-content/uploads/2022/12/Logo_Serics-2048x661.png)
 
+## Links
+* SERICS website: https://serics.eu/services/spoke-2-disinformazione-e-fake-news/  
+* Hugginface prfile: https://huggingface.co/IDA-SERICS
+
 ## Publications
 
 * Amendola, M., Cavaliere, D., De Maio, C., Fenza, G., & Loia, V. (2024). **[Towards Echo Chamber Assessment by employing Aspect-based Sentiment Analysis and GDM Consensus metrics](https://www.sciencedirect.com/science/article/pii/S2468696424000016)**. Online Social Networks and Media.
