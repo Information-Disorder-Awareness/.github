@@ -11,7 +11,7 @@
 ---
 
 ## About IDA
-**Information Disorder Awareness (IDA)** is research and technology initiative dedicated to understanding, analysing, and addressing information disorder in digital environments.
+**Information Disorder Awareness (IDA)** is a research and technology initiative dedicated to understanding, analysing, and addressing information disorder in digital environments.
 
 By combining artificial intelligence, data science, computational social science, and social media analysis, IDA investigates how information circulates, evolves, and influences digital societies. Its research explores technological and societal approaches to identifying misleading content, understanding coordinated manipulation, assessing information credibility, and strengthening cognitive resilience.
 
