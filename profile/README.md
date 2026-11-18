@@ -71,7 +71,7 @@ This GitHub organization brings together research projects, experimental impleme
 Explore our repositories to discover our work and ongoing research activities.
 
 - **[Repositories](https://github.com/orgs/Information-Disorder-Awareness/repositories)** — Research projects, tools, and implementations.
-- **[Hugging Face](https://huggingface.co/IDA-SERICS)** — Models and research resources.
+- **[Hugging Face](https://huggingface.co/IDA-UNISA)** — Models and research resources.
 - **[Publications](PUBLICATIONS.md)** — Scientific publications and research contributions.
 
 ## Publications & Scientific Contributions
