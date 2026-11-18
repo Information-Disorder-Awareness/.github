@@ -60,8 +60,6 @@ Information Disorder Awareness (IDA) originated at the University of Salerno, wi
 
 Building on these foundations, IDA is evolving through a new phase of research and technological development within [SINTESI](https://fondazione-fair.it/progetto-sintesi/), promoted by Fondazione FAIR, with Fondazione SERICS as co-proponent.
 
-Building on these foundations, IDA is evolving through a new phase of research and technological development within SINTESI, promoted by Fondazione FAIR, with Fondazione SERICS as co-proponent.
-
 This evolution represents a step forward in the development of IDA's research activities, strengthening the connection between scientific knowledge, technological innovation, and real-world challenges related to disinformation and cognitive security.
 
 ## Explore Our Work
